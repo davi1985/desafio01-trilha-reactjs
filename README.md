@@ -1,5 +1,5 @@
-<div align="center" id="top"> 
-  <img src="./public/logo.svg" alt="01 Github Explorer" />
+<div align="center" id="top" > 
+  <img src="./public/icon.svg" alt="01 Github Explorer" />
 
 &#xa0;
 
